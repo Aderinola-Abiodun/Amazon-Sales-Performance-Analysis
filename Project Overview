@@ -1,0 +1,13 @@
+Project Overview
+This project represents a full-lifecycle database engineering solution, where I architected a robust e-commerce ecosystem from the ground up. Moving beyond simple querying, I designed a normalized relational schema consisting of 8 mission-critical tables—including Customers, Orders, Inventory, and Payments—to mirror a high-traffic production environment.
+
+Using PostgreSQL, I engineered solutions for 20 advanced business intelligence problems, transforming fragmented transactional records into a strategic asset for stakeholder decision-making.
+
+Technical Depth & Innovation
+Relational Schema Architecture: Designed and implemented a primary/foreign key infrastructure to ensure 100% data integrity across complex one-to-many relationships.
+
+Advanced Analytical Logic: Leveraged sophisticated SQL techniques, including Window Functions for trend analysis, CTEs for modular logic, and Aggregations to calculate granular KPIs like Category Contribution and Customer Lifetime Value (CLTV).
+
+Backend Automation: Developed an optimized PostgreSQL Stored Procedure that acts as a real-time inventory trigger, automating stock deductions upon successful sales to eliminate manual reconciliation errors.
+
+Performance-Driven Insights: Conducted deep-dive analysis into year-over-year revenue ratios (2022 vs. 2023) and shipping provider efficiencies to pinpoint operational bottlenecks.
